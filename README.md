@@ -13,3 +13,8 @@ This project contains my practice workbook to build foundational Excel skills fo
 - Applied filters to isolate expenses greater than $100.  
 - Used multiple sheets in workbook to keep tasks organized.
 
+## Day 3: PivotTables & PivotCharts
+
+- Created PivotTables to summarize expenses by item using Sum, Min, and Average calculations.
+- Demonstrated table layouts and multiple aggregation functions.
+- Ready for dynamic analysis and further visualization (PivotCharts).
